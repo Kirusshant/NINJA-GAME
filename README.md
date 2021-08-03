@@ -1,2 +1,1 @@
-# NINJA-GAME
-Nice
+# C42
